@@ -39,6 +39,6 @@
     
     { "id": 10, "firstName": "Felipe", "lastName": "Smith", 
     "birth": "1980-10-21", "email": "fsmith@fantasycompany.com.br",
-    "department": "Financeiro", "role": "Gestor"},
+    "department": "Financeiro", "role": "Gestor"}
   ]
 }
