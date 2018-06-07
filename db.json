@@ -2,7 +2,15 @@
 {
   "employees": [
     { "id": 1, "firstName": "Jose Ricardo", "lastName": "Moreira", 
-    "birth": "1996-05-21", "email": "josericardo@gmail.com",
-    "department": "TI", "role": "Estagiario de TI"} .
+    "birth": "1996-05-21", "email": "josericardo@fantasycompany.com.br",
+    "department": "TI", "role": "Estagiario de TI"}, 
+    
+    { "id": 2, "firstName": "Fernanda", "lastName": "Gavazzi", 
+    "birth": "1982-01-15", "email": "gavazzi@fantasycompany.com.br",
+    "department": "Call Center", "role": "Supervisora"},
+    
+    { "id": 3, "firstName": "Rafael", "lastName": "Duarte", 
+    "birth": "1985-12-06", "email": "duarte@fantasycompany.com.br",
+    "department": "Marketing", "role": "Analista de marketing"},.
   ]
 }
