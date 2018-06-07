@@ -12,5 +12,33 @@
     { "id": 3, "firstName": "Rafael", "lastName": "Duarte", 
     "birth": "1985-12-06", "email": "duarte@fantasycompany.com.br",
     "department": "Marketing", "role": "Analista de marketing"}
+    
+    { "id": 4, "firstName": "Leonardo", "lastName": "Salles", 
+    "birth": "1994-02-23", "email": "@fantasycompany.com.br",
+    "department": "TI", "role": "Analista de suporte"},
+    
+    { "id": 5, "firstName": "Tuany", "lastName": "Andrade", 
+    "birth": "1990-04-27", "email": "andrade@fantasycompany.com.br",
+    "department": "Marketing", "role": "Auxiliar de marketing"},
+    
+    { "id": 6, "firstName": "Bruno", "lastName": "Cortez", 
+    "birth": "1979-11-01", "email": "bcortez@fantasycompany.com.br",
+    "department": "Diretoria", "role": "Diretor"},
+    
+    { "id": 7, "firstName": "Jorge", "lastName": "Rodrigues", 
+    "birth": "1986-12-19", "email": "jrodrigues@fantasycompany.com.br",
+    "department": "Parceria", "role": "Analista de planejamento"},
+    
+    { "id": 8, "firstName": "Gustavo", "lastName": "Souza", 
+    "birth": "1992-01-02", "email": "gustavos@fantasycompany.com.br",
+    "department": "Logistica", "role": "Encarregado de logistica"},
+    
+    { "id": 9, "firstName": "Gabriela", "lastName": "Fonseca", 
+    "birth": "1987-07-17", "email": "gabriela@fantasycompany.com.br",
+    "department": "Financeiro", "role": "Analista financeiro"},
+    
+    { "id": 10, "firstName": "Felipe", "lastName": "Smith", 
+    "birth": "1980-10-21", "email": "fsmith@fantasycompany.com.br",
+    "department": "Financeiro", "role": "Gestor"},
   ]
 }
