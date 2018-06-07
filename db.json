@@ -14,7 +14,7 @@
     "department": "Marketing", "role": "Analista de marketing"},
     
     { "id": 4, "firstName": "Leonardo", "lastName": "Salles", 
-    "birth": "1994-02-23", "email": "@fantasycompany.com.br",
+    "birth": "1994-02-23", "email": "salles@fantasycompany.com.br",
     "department": "TI", "role": "Analista de suporte"},
     
     { "id": 5, "firstName": "Tuany", "lastName": "Andrade", 
