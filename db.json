@@ -11,6 +11,6 @@
     
     { "id": 3, "firstName": "Rafael", "lastName": "Duarte", 
     "birth": "1985-12-06", "email": "duarte@fantasycompany.com.br",
-    "department": "Marketing", "role": "Analista de marketing"},.
+    "department": "Marketing", "role": "Analista de marketing"} .
   ]
 }
